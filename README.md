@@ -1,5 +1,5 @@
 # Node.js
-# TypeScript
-# TypeORM
-# postgresql
-# jwt
+* TypeScript
+  * TypeORM
+  * postgresql
+* jwt
